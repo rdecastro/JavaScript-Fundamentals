@@ -4,7 +4,7 @@ JavaScript Fundamentals
 Data Types
 ----------
 - _Number_ - There is only one number type in JavaScript. It's a 64-bit floating point number.
-- _String_ - Strings can be enclosed using single quotes ' or double quotes ". The escape character is backslash (\\).
+- _String_ - Strings can be enclosed using single quotes ' or double quotes ". The escape character is a backslash (\\). Strings are immutable.
 
 Closure
 -------
